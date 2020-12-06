@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with React and Flutter
 - 💬 I would like to discuss about JavaScript, Python and C++
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm a noob at CSGO
 - 📫 How to reach me: 
 <p align="center">
   <a href="https://www.linkedin.com/in/shreyansh-mishra-455b65118/">
