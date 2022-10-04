@@ -19,4 +19,3 @@
     
   </a>&nbsp;&nbsp;
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh-Mishra&hide_border=true&hide=HTML,CSS">
